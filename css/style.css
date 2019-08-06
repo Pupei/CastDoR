@@ -67,7 +67,7 @@ p2 {
 /*billboard*/
 #billboard {
     padding: 0;
-    background-image: 2019_gorgeous_fuchi.png;
+    background-image: url("https://github.com/Pupei/CastDoR/blob/master/2019_gorgeous_fuchi.png");
     background-size: cover;
     background-position: center center;
     width: 100%;
