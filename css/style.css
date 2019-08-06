@@ -164,6 +164,7 @@ p2 {
     /*文字色：#000*/
     letter-spacing: 0.2rem;
     /*文字間隔：0.2文字分*/
+    margin-top: 40px;
 }
 
 #introduction p {
