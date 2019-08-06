@@ -134,7 +134,7 @@ p2 {
 #introduction ul {
     width: 1200px;
     /*横幅：1200px*/
-    margin: 0 auto;
+    margin: 10 auto;
     /*外余白：上下0、左右auto*/
     display: flex;
     /*要素を並べるBOX指定*/
