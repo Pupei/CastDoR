@@ -93,10 +93,13 @@ p2 {
     letter-spacing: 0.2em;
 
 }
-/*header
--------------------------------------------------*/
-    
 
+#billboard img{
+    background-color: white;
+    width: 1200px; height: 650px;
+    object-fit: contain;
+    
+}
 
 /*explain
 -------------------------------------------------*/
