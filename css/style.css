@@ -177,7 +177,7 @@ p2 {
 #introduction p {
     margin: 0 30px;
     /*外余白：上下0 左右30px*/
-    text-align: justify;
+    text-align: center;
     /*段落設定：両端揃え*/
     line-height: 1.75;
     /*行間：1.75*/
