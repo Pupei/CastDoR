@@ -259,39 +259,3 @@ footer {
     text-align: center;
     /*段落設定：中央揃え*/
 }
-
-footer ul {
-    display: flex;
-    /*要素を並べるBOX指定*/
-    flex-direction: row;
-    /*中のアイテムを1行で並べる*/
-    width: 230px;
-    /*横幅：230px*/
-    margin: 0 auto 60px;
-    /*外余白：上0 左右auto 下60px*/
-}
-
-footer li {
-    flex: 1;
-    /*等幅に割り当てる*/
-    list-style: none;
-    /*リストマーカー：無し*/
-    font-size: 3.2rem;
-    /*文字サイズ：32px*/
-}
-
-footer a {
-    color: #fff;
-    /*文字色：#fff*/
-}
-
-footer p {
-    /*外余白：下30px*/
-}
-
-footer small {
-    color: #ccc;
-    /*文字色：#ccc*/
-    font-size: 1.2rem;
-    /*文字サイズ：12px*/
-}
