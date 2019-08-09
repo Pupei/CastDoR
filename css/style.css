@@ -183,9 +183,9 @@ p2 {
     /*行間：1.75*/
 }
 
-introduction p2 {
+#introduction p2 {
     font-size: 2.5rem;
-    margin-top: 20px;
+    margin-top: 50px;
     margin: 30px 30px;
     /*外余白：上下0 左右30px*/
     text-align: justify;
@@ -235,13 +235,14 @@ introduction p2 {
     font-size: 2.2rem;
     margin-bottom: 20px;
     margin-top: 20px;
+    text-align:center;
 }
 
 #reciperelay p3 {
     font-size: 2.0rem;
     margin-top: 20px;
     margin-bottom: 20px;
-    
+    text-align:center;
 }
 
 
