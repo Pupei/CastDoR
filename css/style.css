@@ -108,6 +108,7 @@ p2 {
     /*背景色：#00a0e9*/
     text-align: center;
     /*段落設定：中央揃え*/
+    display:flex;
 }
 
 #explain h2 {
@@ -126,6 +127,7 @@ p2 {
 #introduction {
     text-align: center;
     /*段落設定：中央揃え*/
+    display:flex;
 }
 
 #introduction h2 {
@@ -209,7 +211,9 @@ p2 {
 /*reciperelay
 -------------------------------------------------*/
 
-
+#reciperelay {
+    display:flex;
+}
 
 #reciperelay ul {
     display: flex;
@@ -260,6 +264,7 @@ footer {
     /*文字色：#fff*/
     text-align: center;
     /*段落設定：中央揃え*/
+    display:flex;
 }
 
 footer ul {
