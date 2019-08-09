@@ -127,6 +127,7 @@ p2 {
 #introduction {
     text-align: center;
     /*段落設定：中央揃え*/
+    background:#ffffe0;
 }
 
 #introduction h2 {
@@ -209,6 +210,9 @@ p2 {
 
 /*reciperelay
 -------------------------------------------------*/
+#reciperelay {
+    background:#afeeee;
+}
 
 #reciperelay ul {
     display: flex;
