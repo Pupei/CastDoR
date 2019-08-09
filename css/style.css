@@ -76,6 +76,7 @@ p2 {
     align-items: center;
     flex-direction: column;
     color: white;
+    display:flex;
 }
 
 #billboard h1 {
